@@ -44,7 +44,7 @@ for this short course.
 * 传感器与传感器模组
 * 什么是物联网?
 * 有哪些协议?协议层次, 服务模型
-* 人工智能时代的边缘计算
+* 人工智能时代的边缘计算(Intelligence at the Edge for data-acquisition and IoT)
 * 相关技术及架构
 * 性能: 时延、安全、可靠性
 * 历史及未来
